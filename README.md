@@ -1,1 +1,3 @@
-# Blind_room_impulse_response_estimation_using_GAN-s
+# Blind Room Impulse Response Estimation using Conditional GAN's
+
+(In progress)
